@@ -13,6 +13,7 @@
 
     ```bash
     echo $RANDOM
+    
     ```
 
 2. [애저 Dev CLI][azd cli]를 이용해서 애저에 로그인합니다. 아래 명령어를 입력하세요.
